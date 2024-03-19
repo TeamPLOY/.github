@@ -1,6 +1,6 @@
 ## PLOY
 
-<img src="../img/로고.jpg"  width="300" height="300"/>
+<img src="https://avatars.githubusercontent.com/u/159028139?s=200&v=4"  width="300" height="300"/>
 
 ## 팀원
 |<img src="https://avatars.githubusercontent.com/u/122420333?v=4"  width="150"/>|<img src="https://avatars.githubusercontent.com/u/137587401?v=4"  width="150"/>|<img src="https://avatars.githubusercontent.com/u/127077789?v=4"  width="150"/>|<img src="https://avatars.githubusercontent.com/u/127070775?v=4"  width="150"/>|
