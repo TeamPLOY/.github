@@ -6,3 +6,7 @@
 |:-:|:-:|:-:|:-:|
 |[한태영](https://github.com/noahmik)|[정수환](https://github.com/JeongSuHwan23)|[정소울](https://github.com/soul071213)|[송윤서](https://github.com/yunse0708)|
 
+## Attributer
+|<img src="https://avatars.githubusercontent.com/u/128358675?v=4"  width="150"/>|
+|:-:|
+|[강시우](https://github.com/kangsiwoo)|
